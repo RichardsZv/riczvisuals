@@ -4,6 +4,7 @@
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-style: bold;
   opacity: 80%;
+  
 }
 
 .carousel-caption{
@@ -14,22 +15,10 @@
   left: 50% ;
   transform: translate(-50%, -50%) ;
   text-align: center ;
-  opacity: 50%;
-  font-size: xx-large;
+  opacity: 70%;
+  
   font-family: 'Shadows Into Light', cursive;
-}
-.centered {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: whitesmoke;
-  font-family: monospace;
-  font-weight: 400;
-  
-  
-  
-}
+} 
 
 
 
